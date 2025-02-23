@@ -81,7 +81,7 @@ Step 4: Prepare the Dataset
 
 Make sure the IceCream.csv file in the same directory as my-app.py or adjust the file path in the code accordingly. The dataset will contain two variables:
 • Temperature: Ranging from -0°C to 45°C
-• Revenue: Ranging from $10 to $1,000
+• Revenue: Ranging from \$10 to $1,000
 
 Running the Application
 
